@@ -1,6 +1,6 @@
-### Hola 👋, me llamo Jose Cayuela
+### Hola 👋, me llamo Jose
 
-Soy estudiante del CFGS de Desarrollo de Aplicaciones Web 📚. Emplearé este perfil para compartir mis proyectos personales y para aprender sobre las diferentes tecnologías empleadas en el sector IT.
+Estudiante del CFGS Desarrollo de Aplicaciones Web 📚. 
 
 ## Tecnologías:
 ![Static Badge](https://img.shields.io/badge/IntelliJ-%20white?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010&color=2B79EA)
