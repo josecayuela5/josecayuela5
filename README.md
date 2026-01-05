@@ -1,6 +1,6 @@
 ### Hola 👋, me llamo Jose
 
-Estudiante del CFGS Desarrollo de Aplicaciones Web 📚. 
+Estudiante del CFGS Desarrollo de Aplicaciones Web 📚 
 
 ## Tecnologías:
 ![Static Badge](https://img.shields.io/badge/IntelliJ-%20white?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010&color=2B79EA)
