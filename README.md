@@ -3,7 +3,6 @@
 Web development student 📚
 
 ## Tecnologías:
-![Static Badge](https://img.shields.io/badge/IntelliJ-%20white?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010&color=2B79EA)
 ![Static Badge](https://img.shields.io/badge/JAVA-%20white?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010&color=D4AE50)
 ![Static Badge](https://img.shields.io/badge/SQL-%20white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010&color=899FE1)
 </br>
@@ -13,3 +12,4 @@ Web development student 📚
 </br>
 ![Static Badge](https://img.shields.io/badge/DBEAVER-%20white?style=for-the-badge&logo=dbeaver&logoColor=white&labelColor=101010&color=46E0A2)
 ![Static Badge](https://img.shields.io/badge/VSCODE-%20white?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010&color=367FD9)
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
